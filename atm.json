@@ -1,0 +1,46 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Kadir",
+            "apellido": "Barquet",
+            "email": "barquetbravokadir@gmail.com",
+            "nombre_usuario": "kadir",
+            "contraseña": "1234",
+            "estado": true
+        },
+        {
+            "nombre": "Melanie",
+            "apellido": "Garcia",
+            "email": "melaniegarciaobregon@gmail.com",
+            "nombre_usuario": "mell",
+            "contraseña": "1234",
+            "estado": true
+        }
+    ],
+    "cuentas": [
+        {
+            "usuario": {
+                "nombre": "Kadir",
+                "apellido": "Barquet",
+                "email": "barquetbravokadir@gmail.com",
+                "nombre_usuario": "kadir",
+                "contraseña": "1234",
+                "estado": true
+            },
+            "saldo": 100.0,
+            "estado": true
+        },
+        {
+            "usuario": {
+                "nombre": "Melanie",
+                "apellido": "Garcia",
+                "email": "melaniegarciaobregon@gmail.com",
+                "nombre_usuario": "mell",
+                "contraseña": "1234",
+                "estado": true
+            },
+            "saldo": 100.0,
+            "estado": true
+        }
+    ]
+}
