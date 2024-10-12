@@ -1,0 +1,29 @@
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar entornos virtuales
+.venv/
+.env
+
+# Ignorar datos de prueba
+*.sqlite3
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de paquetes
+*.egg-info/
+*.egg
+
+# Archivos del sistema operativo
+.DS_Store  # Para macOS
+Thumbs.db   # Para Windows
+
+# Ignorar archivo específico de datos
+atm.json
+
+
+
+
+
